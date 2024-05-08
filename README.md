@@ -119,6 +119,6 @@ python visualize_mesh_and_pointcloud.py --path <name of associaed colmap project
 
 |Case | Ref Dataset COLMAP Reconstruction | Pretrained ESRGAN Predictions COLMAP Reconstruction |
 |---------|------------------|------------------|
-|1|  https://github.com/superdianuj/ESRGAN/assets/47445756/0ee3b7a9-bc85-4846-bdd8-70c35ed9a2f5 | https://github.com/superdianuj/ESRGAN/assets/47445756/b90ce838-6f8c-40cf-bbfe-761b598de8b1|
+|1| https://github.com/superdianuj/ESRGAN/assets/47445756/0ee3b7a9-bc85-4846-bdd8-70c35ed9a2f5.mp4 | https://github.com/superdianuj/ESRGAN/assets/47445756/b90ce838-6f8c-40cf-bbfe-761b598de8b1|
 |2| https://github.com/superdianuj/ESRGAN/assets/47445756/d6a2d77a-414e-45b9-9208-5ef61f509b8e | https://github.com/superdianuj/ESRGAN/assets/47445756/7cc12234-9692-438a-b5a5-153c0d7919f3|
 
