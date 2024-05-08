@@ -119,6 +119,6 @@ python visualize_mesh_and_pointcloud.py --path <name of associaed colmap project
 
 |Case | Ref Dataset COLMAP Reconstruction | Pretrained ESRGAN Predictions COLMAP Reconstruction |
 |---------|------------------|------------------|
-|1| [![Synthetic Motion Blurred](colmap_dataset_motion_blurred_video.gif)](colmap_dataset_motion_blurred_video.mp4) | [![Prediction](colmap_dataset_motion_blurred_out_video.gif)](colmap_dataset_motion_blurred_out_video.mp4) |
-|2| [![Synthetic Resolution Blurred](colmap_dataset_resolution_blurred_video.gif)](colmap_dataset_resolution_blurred_video.mp4) | [![Prediction](colmap_dataset_resolution_blurred_out_video.gif)](colmap_dataset_resolution_blurred_out_video.mp4) |
+|1| <video src="colmap_dataset_motion_blurred_video.mp4" width="320" height="240" controls><br>Synthetic Motion Blurred</video> | <video src="colmap_dataset_motion_blurred_out_video.mp4" width="320" height="240" controls><br>Prediction</video> |
+|2| <video src="colmap_dataset_resolution_blurred_video.mp4" width="320" height="240" controls><br>Synthetic Resolution Blurred</video> | <video src="colmap_dataset_resolution_blurred_out_video.mp4" width="320" height="240" controls><br>Prediction</video> |
 
