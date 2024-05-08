@@ -1,3 +1,5 @@
+
+https://github.com/superdianuj/ESRGAN/assets/47445756/113ca628-ff41-4937-aaa8-6d878c55fc58
 <p align="center">
   <img src="assets/realesrgan_logo.png" height=120>
 </p>
@@ -115,10 +117,27 @@ python visualize_mesh_and_pointcloud.py --path <name of associaed colmap project
 |2| ![GIF 3](dataset_resolution_blurred.gif)<br>Synthetic Resolution Blurred | ![GIF 4](dataset_resolution_blurred_out.gif)<br>Prediction |
 
 
+#### Ref Dataset COLMAP Reconstruction
 
 
-|Case | Ref Dataset COLMAP Reconstruction | Pretrained ESRGAN Predictions COLMAP Reconstruction |
-|---------|------------------|------------------|
-|1| https://github.com/superdianuj/ESRGAN/assets/47445756/0ee3b7a9-bc85-4846-bdd8-70c35ed9a2f5.mp4 | https://github.com/superdianuj/ESRGAN/assets/47445756/b90ce838-6f8c-40cf-bbfe-761b598de8b1|
-|2| https://github.com/superdianuj/ESRGAN/assets/47445756/d6a2d77a-414e-45b9-9208-5ef61f509b8e | https://github.com/superdianuj/ESRGAN/assets/47445756/7cc12234-9692-438a-b5a5-153c0d7919f3|
+https://github.com/superdianuj/ESRGAN/assets/47445756/42958f7e-12a0-43e5-a6ee-a4efbf99603f
+
+#### Pretrained ESRGAN Predictions COLMAP Reconstruction
+
+
+
+https://github.com/superdianuj/ESRGAN/assets/47445756/355670b6-1ffb-44f2-86f1-1e8fedb88b4a
+
+
+#### Ref Dataset COLMAP Reconstruction
+
+https://github.com/superdianuj/ESRGAN/assets/47445756/328661d8-fad6-4bcc-87bf-edbdcf1d0098
+
+#### Pretrained ESRGAN Predictions COLMAP Reconstruction
+
+
+
+https://github.com/superdianuj/ESRGAN/assets/47445756/0c0889fd-70d0-4d67-aae7-668617be29ef
+
+
 
