@@ -1,5 +1,4 @@
 
-https://github.com/superdianuj/ESRGAN/assets/47445756/113ca628-ff41-4937-aaa8-6d878c55fc58
 <p align="center">
   <img src="assets/realesrgan_logo.png" height=120>
 </p>
