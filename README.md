@@ -140,3 +140,7 @@ https://github.com/superdianuj/ESRGAN/assets/47445756/0c0889fd-70d0-4d67-aae7-66
 
 
 
+
+
+## Reference
+https://github.com/xinntao/Real-ESRGAN
